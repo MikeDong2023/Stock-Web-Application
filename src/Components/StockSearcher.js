@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Axios from 'axios';
 import { StockInfo } from './StockInfo';
 import { Input, Button, MyLogo } from '../Stylings/Content';
